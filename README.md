@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mehta</h1>
 <h3 align="center">A passionate frontend developer from India (Rajasthan)</h3>
 
-- # Pig-Game
+ # Pig-Game
 This is a web version of popular board game namely "Pig Game". The game works on a dice-roll between two players, players roll dices and can save their scores. First player reaching 100 wins! 
+Link for this project is [The Pig Game](https://si88har1h.github.io/Pig-Game/)
 
+  ![Demo](https://github.com/si88har1h/Pig-Game/blob/main/working-1.png)
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/si88har1h](https://github.com/si88har1h)
